@@ -1,2 +1,2 @@
 # monodirectional-chat-rabbitMQ
-A go client &amp; server implementation of RabbitMQ
+A go sender &amp; receiver implementation of RabbitMQ
